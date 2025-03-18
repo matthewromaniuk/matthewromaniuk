@@ -6,6 +6,7 @@ I am currently working to apply the knowledge I have gained through my schooling
 
 My current project is converting my Risk Europe Probability calculator from a command-line based program with no UI into an easily accessible web-app. Next, I plan to build a farm inventory website as a dynamic site, implementing SQL and ASP.NET to achieve this, and adding features like an account system. After the farm inventory project is completed, I plan to create a desktop app that applies methods that exist within the forensic anthropolgy field into an easy-to-use and highly-functional app. I believe this project has real value, as it will teach me the basics of app development, as well as creating an app based on "customer" values (the idea of the app came from a friend, who will benefit from the app's existence and will assist with the creation of the app).
 
+📫 How to reach me: matthewromaniukk@gmail.com
 <!--
 ### MY TODO's
 * Learn basics of:
